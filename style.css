@@ -1,0 +1,21 @@
+body { 
+  background: url(https://uhd-wallpapers.eu/wp-content/uploads/2018/12/Ant-Man-and-the-Wasp-2018-Minimalist-8K-Ultra-HD-16-9-Widescreen-7680x4320.jpg) no-repeat center center fixed; 
+  
+  background-size: cover;
+
+}
+#main { 
+  background-image: url(http://digitalblasphemy.com/graphics/fb/stringtheory2fb.jpg);
+  height: 50%;
+  width: 50%;
+  color: white;
+  text-align: center;
+   font-family: 'Chewy', cursive;
+  
+  
+}
+
+#logo {
+  margin-top: 30px;
+  width: 50%;
+}
